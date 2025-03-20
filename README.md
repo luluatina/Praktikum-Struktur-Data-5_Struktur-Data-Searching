@@ -1,0 +1,1 @@
+# Praktikum-Struktur-Data-5_Struktur-Data-Searching
